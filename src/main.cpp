@@ -1,11 +1,7 @@
-//
-// Created by teekay on 17/12/16.
-//
 
 #ifdef __APPLE__
 #include <GLUT/glut.h> // if we are on a Mac
 #else
-#include <GL/glut.h> // on linux
 #endif
 
 #include <math.h>
